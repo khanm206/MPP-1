@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+*{margin: 0%}
+#head{
+    /* background-color: brown; */
+    background-image: url("../images/head.jpg");
+    /* background-position: 100%; */
+    background-size: cover;
+    height: 75vh;
+    background-position: bottom;
+}
+h1{
+    font-family: 'Indie Flower', sans-serif;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size:10vh;
+    text-align: center;
+    padding-top: 20vh;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    
+}
