@@ -86,12 +86,36 @@ padding-bottom: 2%;
 }
 
 .seconddiv{
-    background-color: rgba(225, 193, 12, 0.372);
+    background-color: rgba(225, 193, 12, 0.066);
 }
 
 footer{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-around;
     font-size: small;
-    padding: 30px 15px;
+    padding: 50px 15px 30px;
     color: white;
     background-color: black;
+}
+#fimg1{
+    /* padding-left: 5%; */
+    width: 2%;
+    height: 2%;
+}
+#fimg2{
+    width: 2%;
+    height: 2%;
+}
+#fimg3{
+    width: 2%;
+    height: 2%;
+}
+#fimg4{
+    width: 2%;
+    height: 2%;
+}
+.fp{
+    line-height: 120%
 }
